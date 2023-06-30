@@ -1,0 +1,18 @@
+{         "bug_id": "330192.88",
+          "title": "Homepage:_the_‘Menu’_isn’t_pinned_at_the_top",
+          "description": [
+		  {  
+			  "Preconditions": 	"Open_the_SendyBird_site",
+                            "Steps":
+{ 					"1": "Try_to_click_all_of_the_menu_items_and_check_if_the_menu_is_pinned_at_the_top",
+                                       	"2": "Try_to_scroll_the_page_down_and_check_if_the_menu_is_pinned_at_the_top"
+},
+                            "Actual_result": "the_Menu_isn’t_pinned_at_the_top_during_the_scroling_or_being_in_any_of_the_menu_items",
+                            "Expected result": "the_Menu_is_pinned_at_the_top_always_when_scrolling_the_page_down_or_being in any of the menu items",
+                            "Priority": "high",
+                            "Reproducibility": "always",
+                            "Attachmants": "video_link"
+			  
+			  }
+		  ]
+}
